@@ -1,0 +1,15 @@
+@import url(header.css);
+
+:root{
+    --cor-de-fundo: hsl(0, 0%, 0%);
+    --cor-cabecalho: hsl(0, 100%, 26%);
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    margin: 0;
+}
+
+.container__imagem{
+    width: 10%;
+}
