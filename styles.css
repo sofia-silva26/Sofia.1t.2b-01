@@ -13,3 +13,8 @@ body{
 .container__imagem{
     width: 10%;
 }
+
+.coreo{
+    width: 70%;
+    padding: 0 0 0 18em;
+}
