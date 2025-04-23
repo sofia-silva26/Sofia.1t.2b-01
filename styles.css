@@ -2,7 +2,7 @@
 
 :root{
     --cor-de-fundo: hsl(0, 0%, 0%);
-    --cor-cabecalho: hsl(0, 100%, 26%);
+    --cor-cabecalho: hsla(231, 90%, 59%, 0.596);
 }
 
 body{
