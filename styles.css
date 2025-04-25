@@ -8,6 +8,7 @@
 body{
     background-color: var(--cor-de-fundo);
     margin: 0;
+    color: aliceblue;
 }
 
 .container__imagem{
@@ -17,4 +18,8 @@ body{
 .coreo{
     width: 70%;
     padding: 0 0 0 18em;
+}
+
+.container__frase{
+    font-size: 2em;
 }
